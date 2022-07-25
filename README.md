@@ -1,4 +1,5 @@
-<h1> Youtube-Search-React-Hooks </h1>
+Youtube-Search-React-Hooks
+==================
   
 A very humble search engine and YouTube video player, made with React.js
 
@@ -7,7 +8,7 @@ A very humble search engine and YouTube video player, made with React.js
 
 
 Installation
-==================
+------------
 
 - Install all dependencies
 
@@ -30,8 +31,13 @@ Built With
 - Semantic UI
 
 
+Visit live
+------------
+ https://you-tube-videos-theta.vercel.app/
+    
+
 Idea
-==================
+----------
 The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen!
 
 
