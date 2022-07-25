@@ -17,10 +17,10 @@ const App = () => {
             <SearchBar onFormSubmit={search} />
             <div className="ui grid">
                 <div className="ui row">
-                    <div className="eleven wide column">
+                    <div className="eight wide column">
                         <VideoDetail video={selectedVideo} />
                     </div>
-                    <div className="five wide column">
+                    <div className="eight wide column">
                         <VideoList onVideoSelect= {setSelectedVideo} videos={videos} />
                     </div>
                 </div>

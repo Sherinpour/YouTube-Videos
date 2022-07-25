@@ -1,0 +1,28 @@
+.field input{
+    width: 40% !important;
+    margin-left: 8.5% !important;
+    margin-top: 1.5rem !important;
+}
+
+.container{
+    width: 100% !important;
+}
+
+.ui.grid{
+    margin-left: 20rem !important;
+}
+
+.ui.image.logo{
+    width: 8.5rem;
+    display: inline-block;
+}
+
+.list{
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 39.3rem;
+}
+
+.videoItem{
+    height: 6.5rem;
+}
